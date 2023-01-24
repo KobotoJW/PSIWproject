@@ -1,4 +1,4 @@
-//W pliku txt instrukcja
+//W pliku README instrukcja
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
